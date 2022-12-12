@@ -41,6 +41,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This is a boilerplate for Renata's personal project.
+It pre-configures:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Imports by reference
+- Folder structures
+- Tests
+- Lint
+- Prettier
+- VSCode config
